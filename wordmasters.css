@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+  }
+
+  .title { 
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+  }
+
+  .words {
+    text-align: center;
+  }
+
+  .letter {
+    height: 50px;
+    width: 50px;
+    font-size: larger;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+
+  }
+
+
+
+
+
+
+
+# only allowing letters
+<input type="text" class="tester-input" placeholder="only letters allowed here" />
+
